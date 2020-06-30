@@ -1,0 +1,9 @@
+
+This code was designed by Nastos Vasileios on June 29st
+It is intended for academic use at the Department of Informatics and Telecommunication of University of Ioannina.
+
+Design for lesson graphics for computers.
+
+Τμήμα Πληροφορικής & Τηλεπικοινωνιών
+Νάστος Βασίλειος
+Copyright © 2020 Νάστος Βασίλειος.Με την επιφύλαξη παντός δικαιώματος
